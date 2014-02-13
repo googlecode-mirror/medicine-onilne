@@ -1,0 +1,16 @@
+A2_ex4  Team 4A
+
+ Omarov Talgat
+
+
+3 main problems:
+
+1) In hierarchi on the bottom, they missed description for each page, onlu numeration.
+2) Screenshot prepared well except descriptions what for is prepared.
+3) In second page: Below the screen they wrote some description were I saw this "In this page we will show all features" but I didn't find them.
+
+
+2 main benefits of screenshot:
+
+1) Good design, where we saw screenshots like prototypes of the project. 
+2) Correctly designed all features, simple and easy to understand.
