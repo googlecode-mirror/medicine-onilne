@@ -1,0 +1,11 @@
+Prototyping
+
+1)1 actor
+2)4 use-cases
+
+1)actor is administrator which add or edit something.
+2)use-case:
+  a)chat between pacient and doctor
+  b)video conversation between client and doctor
+  c)users can create conversations in exact subject, where they can add photos, etc.
+  d)doctors can create forms where they upload cases(photos, rentgens pictures) and   description of situation, which will help solve this case with help of other doctors. 
